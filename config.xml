@@ -41,7 +41,7 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="aerogear-cordova-push" source="npm" />
+    <gap:plugin name="aerogear-cordova-push" source="npm" version="1.0.4"/>
 
     <access origin="*"/>
 
