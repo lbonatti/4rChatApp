@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="app.chatapp.com" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>AXION</name>
+    <name>ChatApp!</name>
     <description></description>
     <author email="devteam@webFactory.com" href="http://devTeam.com">
         WebFactory DevTeam
@@ -41,7 +41,7 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="aerogear-cordova-push" source="npm" version="1.0.4"/>
+    <gap:plugin name="aerogear-cordova-push" source="npm" />
 
     <access origin="*"/>
 
